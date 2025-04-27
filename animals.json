@@ -1,0 +1,681 @@
+[
+  {
+    "animal": "African Elephant",
+    "STR": [8, 10],
+    "TUF": [9, 10],
+    "AGI": [3, 5],
+    "env": ["land"]
+  },
+  {
+    "animal": "Great White Shark",
+    "STR": [7, 9],
+    "TUF": [6, 8],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Bald Eagle",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [7, 9],
+    "env": ["air"]
+  },
+  {
+    "animal": "Saltwater Crocodile",
+    "STR": [7, 9],
+    "TUF": [7, 9],
+    "AGI": [4, 6],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Cheetah",
+    "STR": [5, 7],
+    "TUF": [4, 6],
+    "AGI": [8, 10],
+    "env": ["land"]
+  },
+  {
+    "animal": "Hippopotamus",
+    "STR": [8, 10],
+    "TUF": [8, 10],
+    "AGI": [3, 5],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Peregrine Falcon",
+    "STR": [2, 4],
+    "TUF": [2, 4],
+    "AGI": [9, 10],
+    "env": ["air"]
+  },
+  {
+    "animal": "Giant Squid",
+    "STR": [6, 8],
+    "TUF": [5, 7],
+    "AGI": [4, 6],
+    "env": ["water"]
+  },
+  {
+    "animal": "Bengal Tiger",
+    "STR": [6, 8],
+    "TUF": [5, 7],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Mallard Duck",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Rhinoceros",
+    "STR": [7, 9],
+    "TUF": [8, 10],
+    "AGI": [3, 5],
+    "env": ["land"]
+  },
+  {
+    "animal": "Humpback Whale",
+    "STR": [8, 10],
+    "TUF": [7, 9],
+    "AGI": [4, 6],
+    "env": ["water"]
+  },
+  {
+    "animal": "Komodo Dragon",
+    "STR": [6, 8],
+    "TUF": [6, 8],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Hummingbird",
+    "STR": [1, 3],
+    "TUF": [1, 3],
+    "AGI": [8, 10],
+    "env": ["air"]
+  },
+  {
+    "animal": "Polar Bear",
+    "STR": [7, 9],
+    "TUF": [7, 9],
+    "AGI": [4, 6],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Orca",
+    "STR": [7, 9],
+    "TUF": [6, 8],
+    "AGI": [6, 8],
+    "env": ["water"]
+  },
+  {
+    "animal": "Ostrich",
+    "STR": [4, 6],
+    "TUF": [4, 6],
+    "AGI": [7, 9],
+    "env": ["land"]
+  },
+  {
+    "animal": "Box Jellyfish",
+    "STR": [2, 4],
+    "TUF": [2, 4],
+    "AGI": [4, 6],
+    "env": ["water"]
+  },
+  {
+    "animal": "African Lion",
+    "STR": [6, 8],
+    "TUF": [5, 7],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Albatross",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["air", "water"]
+  },
+  {
+    "animal": "Gorilla",
+    "STR": [7, 9],
+    "TUF": [6, 8],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Manta Ray",
+    "STR": [4, 6],
+    "TUF": [4, 6],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Kangaroo",
+    "STR": [5, 7],
+    "TUF": [4, 6],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Emperor Penguin",
+    "STR": [3, 5],
+    "TUF": [4, 6],
+    "AGI": [5, 7],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Grizzly Bear",
+    "STR": [7, 9],
+    "TUF": [6, 8],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Sperm Whale",
+    "STR": [8, 10],
+    "TUF": [7, 9],
+    "AGI": [4, 6],
+    "env": ["water"]
+  },
+  {
+    "animal": "Snow Leopard",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [7, 9],
+    "env": ["land"]
+  },
+  {
+    "animal": "Marlin",
+    "STR": [5, 7],
+    "TUF": [4, 6],
+    "AGI": [7, 9],
+    "env": ["water"]
+  },
+  {
+    "animal": "Anaconda",
+    "STR": [6, 8],
+    "TUF": [5, 7],
+    "AGI": [4, 6],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Condor",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["air"]
+  },
+  {
+    "animal": "Warthog",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Barracuda",
+    "STR": [5, 7],
+    "TUF": [4, 6],
+    "AGI": [6, 8],
+    "env": ["water"]
+  },
+  {
+    "animal": "Flamingo",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Jaguar",
+    "STR": [6, 8],
+    "TUF": [5, 7],
+    "AGI": [7, 9],
+    "env": ["land"]
+  },
+  {
+    "animal": "Dolphin",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [6, 8],
+    "env": ["water"]
+  },
+  {
+    "animal": "Moose",
+    "STR": [7, 9],
+    "TUF": [6, 8],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Swordfish",
+    "STR": [5, 7],
+    "TUF": [4, 6],
+    "AGI": [7, 9],
+    "env": ["water"]
+  },
+  {
+    "animal": "Harpy Eagle",
+    "STR": [4, 6],
+    "TUF": [3, 5],
+    "AGI": [7, 9],
+    "env": ["air"]
+  },
+  {
+    "animal": "Wolverine",
+    "STR": [5, 7],
+    "TUF": [6, 8],
+    "AGI": [5, 7],
+    "env": ["land"]
+  },
+  {
+    "animal": "Sea Turtle",
+    "STR": [4, 6],
+    "TUF": [6, 8],
+    "AGI": [3, 5],
+    "env": ["water"]
+  },
+  {
+    "animal": "Hyena",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [5, 7],
+    "env": ["land"]
+  },
+  {
+    "animal": "Pelican",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Cape Buffalo",
+    "STR": [7, 9],
+    "TUF": [7, 9],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Moray Eel",
+    "STR": [4, 6],
+    "TUF": [4, 6],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Red Fox",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Frigatebird",
+    "STR": [2, 4],
+    "TUF": [2, 4],
+    "AGI": [6, 8],
+    "env": ["air", "water"]
+  },
+  {
+    "animal": "Bison",
+    "STR": [7, 9],
+    "TUF": [7, 9],
+    "AGI": [3, 5],
+    "env": ["land"]
+  },
+  {
+    "animal": "Stingray",
+    "STR": [3, 5],
+    "TUF": [4, 6],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Chimpanzee",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [5, 7],
+    "env": ["land"]
+  },
+  {
+    "animal": "Puffin",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Wild Boar",
+    "STR": [5, 7],
+    "TUF": [6, 8],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Octopus",
+    "STR": [4, 6],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["water"]
+  },
+  {
+    "animal": "Pronghorn",
+    "STR": [4, 6],
+    "TUF": [4, 6],
+    "AGI": [7, 9],
+    "env": ["land"]
+  },
+  {
+    "animal": "Seal",
+    "STR": [4, 6],
+    "TUF": [5, 7],
+    "AGI": [5, 7],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Vulture",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["air"]
+  },
+  {
+    "animal": "Manatee",
+    "STR": [4, 6],
+    "TUF": [5, 7],
+    "AGI": [3, 5],
+    "env": ["water"]
+  },
+  {
+    "animal": "Coyote",
+    "STR": [4, 6],
+    "TUF": [4, 6],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Heron",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Rattlesnake",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["land"]
+  },
+  {
+    "animal": "Tuna",
+    "STR": [5, 7],
+    "TUF": [4, 6],
+    "AGI": [7, 9],
+    "env": ["water"]
+  },
+  {
+    "animal": "Ibex",
+    "STR": [4, 6],
+    "TUF": [5, 7],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Cormorant",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Wombat",
+    "STR": [4, 6],
+    "TUF": [5, 7],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Clownfish",
+    "STR": [1, 3],
+    "TUF": [2, 4],
+    "AGI": [4, 6],
+    "env": ["water"]
+  },
+  {
+    "animal": "Meerkat",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["land"]
+  },
+  {
+    "animal": "Owl",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["air"]
+  },
+  {
+    "animal": "Sea Lion",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [5, 7],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Gazelle",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [7, 9],
+    "env": ["land"]
+  },
+  {
+    "animal": "Angelfish",
+    "STR": [2, 4],
+    "TUF": [2, 4],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Badger",
+    "STR": [4, 6],
+    "TUF": [5, 7],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Swan",
+    "STR": [3, 5],
+    "TUF": [4, 6],
+    "AGI": [5, 7],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Lynx",
+    "STR": [4, 6],
+    "TUF": [4, 6],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Seahorse",
+    "STR": [1, 3],
+    "TUF": [2, 4],
+    "AGI": [3, 5],
+    "env": ["water"]
+  },
+  {
+    "animal": "Caribou",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [5, 7],
+    "env": ["land"]
+  },
+  {
+    "animal": "Crane",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Porcupine",
+    "STR": [3, 5],
+    "TUF": [5, 7],
+    "AGI": [3, 5],
+    "env": ["land"]
+  },
+  {
+    "animal": "Piranha",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Armadillo",
+    "STR": [3, 5],
+    "TUF": [6, 8],
+    "AGI": [3, 5],
+    "env": ["land"]
+  },
+  {
+    "animal": "Kestrel",
+    "STR": [2, 4],
+    "TUF": [2, 4],
+    "AGI": [7, 9],
+    "env": ["air"]
+  },
+  {
+    "animal": "Walrus",
+    "STR": [6, 8],
+    "TUF": [6, 8],
+    "AGI": [4, 6],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Gecko",
+    "STR": [1, 3],
+    "TUF": [2, 4],
+    "AGI": [5, 7],
+    "env": ["land"]
+  },
+  {
+    "animal": "Pangolin",
+    "STR": [3, 5],
+    "TUF": [6, 8],
+    "AGI": [3, 5],
+    "env": ["land"]
+  },
+  {
+    "animal": "Starfish",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [2, 4],
+    "env": ["water"]
+  },
+  {
+    "animal": "Hare",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [7, 9],
+    "env": ["land"]
+  },
+  {
+    "animal": "Egret",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [5, 7],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Monitor Lizard",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Narwhal",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Skunk",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Parrot",
+    "STR": [2, 4],
+    "TUF": [2, 4],
+    "AGI": [6, 8],
+    "env": ["air"]
+  },
+  {
+    "animal": "Otter",
+    "STR": [3, 5],
+    "TUF": [4, 6],
+    "AGI": [6, 8],
+    "env": ["land", "water"]
+  },
+  {
+    "animal": "Raven",
+    "STR": [3, 5],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["air"]
+  },
+  {
+    "animal": "Yak",
+    "STR": [6, 8],
+    "TUF": [6, 8],
+    "AGI": [3, 5],
+    "env": ["land"]
+  },
+  {
+    "animal": "Hammerhead Shark",
+    "STR": [6, 8],
+    "TUF": [5, 7],
+    "AGI": [5, 7],
+    "env": ["water"]
+  },
+  {
+    "animal": "Lemur",
+    "STR": [2, 4],
+    "TUF": [3, 5],
+    "AGI": [6, 8],
+    "env": ["land"]
+  },
+  {
+    "animal": "Goose",
+    "STR": [3, 5],
+    "TUF": [4, 6],
+    "AGI": [5, 7],
+    "env": ["land", "water", "air"]
+  },
+  {
+    "animal": "Tapir",
+    "STR": [5, 7],
+    "TUF": [5, 7],
+    "AGI": [4, 6],
+    "env": ["land"]
+  },
+  {
+    "animal": "Mako Shark",
+    "STR": [5, 7],
+    "TUF": [4, 6],
+    "AGI": [7, 9],
+    "env": ["water"]
+  }
+]
